@@ -10,13 +10,13 @@
 1. Clone this repository to your local computer
 
 ```
- $git clone https://github.com/Demilululu/Restaurant-List-Express.git
+ $git clone https://github.com/winnie48562000/restaurant_list
 ```
 
 2. Enter the file with the downloaded project
 
 ```
- $cd Restaurant-List-Express
+ $cd restaurant-list
 ```
 
 3. Install npm
